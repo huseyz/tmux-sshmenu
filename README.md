@@ -8,5 +8,5 @@ Lists hosts from `~/.ssh/config` and connects them when selected.
 Use [tpm](https://github.com/tmux-plugins/tpm) to install:
 
 ```
-set -g @plugin 'tmux-plugins/tmux-urlview'
+set -g @plugin 'hzenginx/tmux-sshmenu'
 ```
